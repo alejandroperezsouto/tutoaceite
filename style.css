@@ -1,9 +1,11 @@
-*{padding: 25px;}
+*{padding: 25px;
+  background-color:gray}
+
     
 
 
 body {
-    background-color: coral;
+    ;
     text-align: center;
     font-family: sans-serif;
     padding: 25px;
